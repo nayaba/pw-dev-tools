@@ -27,7 +27,7 @@ Think of these tools as the trusty sidekicks that will help you build and manage
 
 - **What It Is**: VSCode is a popular code editor where you'll spend a lot of time writing and editing your code. It's user-friendly and supports a multitude of programming languages.
 - **Why It Matters**: With its integrated support for debugging, task running, and version control, VSCode provides an efficient platform for day-to-day coding tasks.
-- _Optional_ [Download and install VSCode](https://code.visualstudio.com/)
+- [Download and install VSCode](https://code.visualstudio.com/)
 - [Video overview of VSCode](https://www.youtube.com/watch?v=B-s71n0dHUk)
 
 #### Git & GitHub: Your Collaboration and Version Control Toolkit
