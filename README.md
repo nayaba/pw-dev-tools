@@ -10,10 +10,10 @@ Think of these tools as the trusty sidekicks that will help you build and manage
 - **Why It Matters**: It's a powerful way to perform tasks quickly and a fundamental skill for any developer to navigate and manage the backend of their projects.
 - **Intro to the Terminal**: We have a [concise video](https://www.youtube.com/watch?v=lZ7Kix9bjPI) that will give both Mac and Windows users an overview of what the Terminal is.
 - **Practice Lessons**: Here are few introductory Terminal lessons to get you familiar with using executing commands.
-  - Introduction (3:34)
-  - Command Structure (2:40)
-  - Directory Basics (3:12)
-  - Basic Commands (3:34)
+  - [Introduction] (https://youtu.be/W3vQxd1vTSE?si=oGuBS1T9plOAsx5v)
+  - [Command Structure] (https://youtu.be/W3vQxd1vTSE?si=oGuBS1T9plOAsx5v)
+  - [Directory Basics] (https://youtu.be/W3vQxd1vTSE?si=oGuBS1T9plOAsx5v)
+  - [Basic Commands] (https://youtu.be/W3vQxd1vTSE?si=oGuBS1T9plOAsx5v)
 
 - ‼️ For Windows users, there's a bit of setup to get your Terminal ready to go with a Unix-like environment if you want to follow along with the above Terminal Lessons. You'll follow the [WSL2 (Windows Subsystem for Linux) Installation Guide](https://www.youtube.com/watch?v=7KVdJ43dQmE), but just watch up to the 8:24 mark for now.
   
