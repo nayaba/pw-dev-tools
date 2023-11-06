@@ -1,5 +1,9 @@
 Hey there, future developers! Let's get you familiar with some essential tools you'll be using day in and day out as you embark on your journey into coding.
 
+### Objective
+
+In order to lay the foundation for upcoming technical lessons, students will familiarize themselves with the terminal, basic version control concepts, and essential coding tools like Visual Studio Code, Git, and GitHub.
+
 ### Developer Tools Overview
 
 Think of these tools as the trusty sidekicks that will help you build and manage your projects efficiently.
