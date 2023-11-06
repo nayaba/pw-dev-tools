@@ -40,6 +40,6 @@ Think of these tools as the trusty sidekicks that will help you build and manage
 
 ### Getting Ready
 
-While you're encouraged to explore these videos to get acquainted with the tools, remember that we'll be going over everything in more detail in our first class. So if you hit a snag or something doesn't quite click, don't worry. We'll cover all of this and make sure everyone is on the same page once the class officially starts.
+!! **While you're encouraged to explore these videos to get acquainted with the tools, remember that we'll be going over everything in more detail in our first class. So if you hit a snag or something doesn't quite click, don't worry. We'll cover all of this and make sure everyone is on the same page once the class officially starts.**
 
 Enjoy your exploration, and see you on day one for a comprehensive walkthrough!
