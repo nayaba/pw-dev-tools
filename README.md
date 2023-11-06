@@ -1,3 +1,5 @@
+![vscode](https://github.com/nayaba/pw-dev-tools/assets/9198401/562fa45e-bc4b-4661-93b7-4a96130c834f)
+
 Hey there, future developers! Let's get you familiar with some essential tools you'll be using day in and day out as you embark on your journey into coding.
 
 ### Objective
