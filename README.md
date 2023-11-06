@@ -34,6 +34,8 @@ Think of these tools as the trusty sidekicks that will help you build and manage
 - [Download and install VSCode](https://code.visualstudio.com/)
 - [Video overview of VSCode](https://www.youtube.com/watch?v=B-s71n0dHUk)
 
+![whatisit](https://github.com/nayaba/pw-dev-tools/assets/9198401/53bf82f0-e57a-481b-8fb5-b22dd0d66c6b)
+
 #### Git & GitHub: Your Collaboration and Version Control Toolkit
 
 - **What It Is**: Git is a version control system that lets you track changes and collaborate on code. GitHub is an online platform where you can store your Git repositories and collaborate with others.
