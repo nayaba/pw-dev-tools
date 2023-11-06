@@ -21,7 +21,7 @@ Think of these tools as the trusty sidekicks that will help you build and manage
     - Use the same username and password for UNIX as your Windows login during the WSL2 installation.
     - After installing WSL2 and Ubuntu, you'll use Ubuntu's Terminal, not PowerShell, for coding tasks.
 
-**Don't worry if these steps seem complex - you don't have to install anything today; we'll go through them together in class to ensure everyone is set up and ready to code!**
+**Don't worry if these steps seem complex - you don't _have_ to install anything today; we'll go through the steps together in class to ensure everyone is set up and ready to code!**
 
 #### Visual Studio Code (VSCode): Your Code Workshop
 
