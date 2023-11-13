@@ -24,7 +24,7 @@ In order to lay the foundation for upcoming technical lessons, students will fam
 - ‼️ For Windows users, there's a bit of setup to get your Terminal ready to go with a Unix-like environment if you want to follow along with the above Terminal Lessons. You'll follow the [WSL2 (Windows Subsystem for Linux) Installation Guide](https://www.youtube.com/watch?v=7KVdJ43dQmE), but just watch up to the 8:24 mark for now.
   <br></br>
   Here are a few key points to note during your installation:
-    - Use the same username and password for UNIX as your Windows login during the WSL2 installation.
+    - The username should not have any spaces in it. The username doesn’t need to match your Windows username, but it is recommended. **The password will not be visible as you type it.** This is common in many command-line applications. **It is vital that you do not forget this password, as you will use it throughout the course to interact with WSL2.**
     - After installing WSL2 and Ubuntu, you'll use Ubuntu's Terminal, not PowerShell, for coding tasks.
   <br></br><br>
 
